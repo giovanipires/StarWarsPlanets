@@ -5,6 +5,8 @@ O desafio consiste em apresentar aleatóriamente planetas da série Star Wars co
 
 As informações são recebidas através de consulta a API https://swapi.co/.
 
+Caso tenha interesse em ver o desafio funcionando acesse: http://bustling-island.surge.sh/
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
