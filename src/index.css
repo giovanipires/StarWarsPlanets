@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.galaxy {
+  background-image: url('./galaxy.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-size: cover;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+}
+
+
+.jumbotron {
+  background-image: url('./Star_Wars.png');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-color: black;
+}
